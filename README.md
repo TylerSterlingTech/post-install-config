@@ -59,7 +59,7 @@ Upon log-in, the agent panel is displayed. In the top right corner, there is an 
 <img src="https://i.imgur.com/NnEgofq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within "Add New Role", under the "Definition" tab, "Supreme Admin" is filled in.
+Within "Add New Role", under the "Definition" tab, "Supreme Admin" is configured.
 </p>
 <br />
 
@@ -91,7 +91,7 @@ For the "Supreme Admin" role, under the "Knowledgebase" tab, the sole option is 
 <img src="https://i.imgur.com/btiR3vg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The completed "Supreme Admin" role is displayed.
+The role of "Supreme Admin" has been successfully created.
 </p>
 <br />
 
@@ -107,7 +107,7 @@ The aim is to now configure the departments. "Admin Panel --> Agents --> Departm
 <img src="https://i.imgur.com/rs3Y6f3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within "Add New Department", information to create the "Systems Administrators" department is configured. "Add Department" is selected, though the button is out-of-frame.
+Within "Add New Department", the "Systems Administrators" department is configured. "Add Department" is selected, though the button is out-of-frame.
 </p>
 <br />
 
@@ -115,7 +115,7 @@ Within "Add New Department", information to create the "Systems Administrators" 
 <img src="https://i.imgur.com/CllyWR0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The newly created department "System Administrators" is displayed.
+The "System Administrators" department has been successfully configured.
 </p>
 <br />
 
@@ -275,7 +275,7 @@ Ken Jackson has been successfully added as a user.
 <img src="https://i.imgur.com/EAFnScI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-With the aim to congiure the SLA plans, "Admin Panel --> Manage --> SLA" is selected. "Add New SLA Plan" is selected.
+With the aim to configure the SLA plans, "Admin Panel --> Manage --> SLA" is selected. "Add New SLA Plan" is selected.
 </p>
 <br />
 
@@ -363,7 +363,7 @@ For the "Personal Computers Issues" help topic, the SLA plan Sev-B is selected a
 <img src="https://i.imgur.com/P4Qtpyf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The "Equiptment Request" help topic is configured.
+The "Equipment Request" help topic is configured.
 </p>
 <br />
 
@@ -371,7 +371,7 @@ The "Equiptment Request" help topic is configured.
 <img src="https://i.imgur.com/asmiy2D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For the "Equiptment Request" help topic, the SLA plan Sev-D is selected and the priority is set to "Normal".
+For the "Equipment Request" help topic, the SLA plan Sev-D is selected and the priority is set to "Normal".
 </p>
 <br />
 
